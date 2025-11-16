@@ -33,14 +33,14 @@ const Await = () => {
         Smt. Lakshmi & Sri. Gururaj Shettigar & their children
       </p>
       <p className="text-center text-[#555] mb-4 text-sm md:text-lg">
-        Chikkamagaluru, Chittadi, Udupi
+        Chikkamagaluru, Chitpady, Udupi
       </p>
       <p className="text-center font-medium  text-[#555] mt-2 md:text-xl">
         Smt. Akkayya & the late Sheena Shettigar’s children, daughters-in-law,
         son-in-law, grandchildren
       </p>
       <p className="text-center text-[#555] mb-4 text-sm md:text-lg">
-        Ulluru, Kadinakonda
+        Ulloor, Kadinakonda
       </p>
       <p className="text-center font-medium  text-[#555] mt-2 md:text-xl">
         The family members of “Vinoda Nilaya”

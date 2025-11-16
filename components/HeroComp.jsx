@@ -6,7 +6,7 @@ const HeroComp = () => {
   return (
     <div className="flex flex-col md:flex-row items-center  md:mt-6  px-0 md:px-10">
       <Image
-        className="sm:hidden absolute top-4 left-0 right-0 z-[-1] garden-animation hanging-flower"
+        className="sm:hidden absolute top-4 left-0 right-0 z-[-1] garden-animation hanging-flower opacity-0.8"
         src={IMAGES.hangingFlower}
         alt="Flower Decoration"
         priority
