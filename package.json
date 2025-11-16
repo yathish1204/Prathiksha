@@ -9,7 +9,6 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@motionone/react": "^10.16.4",
     "lucide-react": "^0.553.0",
     "next": "16.0.3",
     "react": "19.2.0",
