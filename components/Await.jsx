@@ -16,7 +16,7 @@ const Await = () => {
       <p className="text-center text-[#555] mt-2 text-sm md:text-lg">
         'Vinoda Nilaya' , Salikeri
       </p>
-      <div className="flex items-center justify-center gap-4 my-4">
+      <div className="flex items-center justify-center gap-4 my-6">
         <div className="h-px w-24 bg-gradient-to-r from-transparent to-rose-400"></div>
         <div className="flex gap-1">
           <Heart className="text-rose-500 " fill="currentColor" size={24} />
@@ -29,26 +29,41 @@ const Await = () => {
         </div>
         <div className="h-px w-24 bg-gradient-to-l from-transparent to-rose-400"></div>
       </div>
-      <p className="text-center font-medium  text-[#555] mt-2 md:text-xl">
+      <p className="text-center font-medium  text-[#555] mt-4 md:text-xl ">
         Smt. Lakshmi & Sri. Gururaj Shettigar & their children
       </p>
-      <p className="text-center text-[#555] mb-4 text-sm md:text-lg">
+      <p className="text-center text-[#555] mb-2 mt-1 text-sm md:text-lg">
         Chikkamagaluru, Chitpady, Udupi
       </p>
+      <div className="flex items-center justify-center gap-4 my-6">
+        <div className="h-px w-24 bg-gradient-to-r from-transparent to-gray-400"></div>
+
+        <div className="h-px w-24 bg-gradient-to-l from-transparent to-gray-400"></div>
+      </div>
       <p className="text-center font-medium  text-[#555] mt-2 md:text-xl">
         Smt. Akkayya & the late Sheena Shettigar’s children, daughters-in-law,
         son-in-law, grandchildren
       </p>
-      <p className="text-center text-[#555] mb-4 text-sm md:text-lg">
+      <p className="text-center text-[#555] mb-2 mt-1 text-sm md:text-lg">
         Ulloor, Kadinakonda
       </p>
+      <div className="flex items-center justify-center gap-4 my-6">
+        <div className="h-px w-24 bg-gradient-to-r from-transparent to-gray-400"></div>
+
+        <div className="h-px w-24 bg-gradient-to-l from-transparent to-gray-400"></div>
+      </div>
       <p className="text-center font-medium  text-[#555] mt-2 md:text-xl">
         The family members of “Vinoda Nilaya”
       </p>
-      <p className="text-center text-[#555] mb-4 text-sm md:text-lg">
+      <p className="text-center text-[#555] mb-2 mt-1 text-sm md:text-lg">
         Salikeri
       </p>
-      <p className="text-center font-medium  text-[#555] mt-2 md:text-xl">
+      <div className="flex items-center justify-center gap-4 my-6">
+        <div className="h-px w-24 bg-gradient-to-r from-transparent to-gray-400"></div>
+
+        <div className="h-px w-24 bg-gradient-to-l from-transparent to-gray-400"></div>
+      </div>
+      <p className="text-center font-medium  text-[#555] mt-2 mb-4 md:text-xl">
         Along with relatives and friends
       </p>
     </section>

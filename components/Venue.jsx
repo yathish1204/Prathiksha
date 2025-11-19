@@ -16,12 +16,13 @@ const Venue = () => {
           target="_blank"
           rel="noopener noreferrer"
           href={"https://maps.app.goo.gl/NE54mg21dNfUtwCn8"}
-          className="text-center font-medium text-lg text-[#555] mt-2 md:text-2xl"
+          className="text-center font-medium text-xl text-gray-700 mt-2 md:text-2xl"
         >
           Shree Narayanaguru SabhaBhavana
         </Link>
         <p className="text-center text-[#555] mt-2 text-sm md:text-lg mb-4">
-          CPQR+C2Q, Edapally - Panvel Hwy, Kochi, Bramavara, Karnataka 576213
+          Near Taluk Office ( Adalitha Souda ) , Akashavani, Brahmavara,
+          Karnataka -576213
         </p>
         <button
           className="h-10 w-full max-w-[400px] py-2 rounded-lg bg-gradient-to-r from-rose-500 to-amber-500 hover:from-rose-600 hover:to-amber-600 text-white shadow-lg"

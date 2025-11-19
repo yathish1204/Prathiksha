@@ -1,8 +1,9 @@
 import heroImg from "./assets/hero-img.png";
 import logo from "./assets/logo.png";
 import wedLogo from "./assets/wed-logo.png";
-import wedHero from "./assets/wed-hero2.png";
+import wedHero from "./assets/wed-hero.png";
 import bgHero from "./assets/bg-hero.gif";
+import butterfly from "./assets/butterfly.gif";
 import prathiGana from "./assets/prathiGana.png";
 import coralHeart from "./assets/coralheart.png";
 import whiteHeart from "./assets/whiteHeart.png";
@@ -32,4 +33,5 @@ export const IMAGES = {
   floralDecTop1,
   floralFooter,
   hangingFlower,
+  butterfly,
 };
