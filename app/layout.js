@@ -1,5 +1,6 @@
 import "./globals.css";
 import localFont from "next/font/local";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata = {
   title: "Prathiksha Weds Ganesh",
@@ -16,7 +17,10 @@ const greatVibes = localFont({
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${greatVibes.variable} `}>{children}</body>
+      <body className={`${greatVibes.variable} `}>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
