@@ -1,6 +1,7 @@
 import "./globals.css";
 import localFont from "next/font/local";
 import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata = {
   title: "Prathiksha Weds Ganesh",
@@ -20,6 +21,7 @@ export default function RootLayout({ children }) {
       <body className={`${greatVibes.variable} `}>
         {children}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
