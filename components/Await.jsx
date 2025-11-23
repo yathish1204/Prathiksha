@@ -40,7 +40,7 @@ const Await = () => {
 
         <div className="h-px w-24 bg-gradient-to-l from-transparent to-gray-400"></div>
       </div>
-      <p className="text-center font-medium  text-[#555] mt-2 md:text-xl">
+      <p className="text-center font-medium  text-[#555] md:max-w-[50vw] mx-auto mt-2 md:text-xl">
         Smt. Akkayya & the late Sheena Shettigar’s children, daughters-in-law,
         son-in-law, grandchildren
       </p>
