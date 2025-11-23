@@ -15,6 +15,8 @@ import floralDecTop from "./assets/floralDecorationTop.png";
 import floralDecTop1 from "./assets/floralDecorationTop1.png";
 import floralFooter from "./assets/floral-footer.png";
 import hangingFlower from "./assets/hanger.png";
+import modalImage from "./assets/modalImage.png";
+import confetti from "./assets/confetti.gif";
 
 export const IMAGES = {
   heroImg,
@@ -34,4 +36,6 @@ export const IMAGES = {
   floralFooter,
   hangingFlower,
   butterfly,
+  modalImage,
+  confetti,
 };

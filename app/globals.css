@@ -18,7 +18,7 @@ body {
 }
 
 .font-greatvibes {
-  font-family: 'Great Vibes', cursive;
+  font-family: "Great Vibes", cursive;
 }
 
 /* Stylings */
@@ -28,7 +28,6 @@ body {
 }
 
 @keyframes pulse {
-
   0%,
   100% {
     transform: scale(1);
@@ -44,7 +43,6 @@ body {
 }
 
 @keyframes gardenMove {
-
   0%,
   100% {
     transform: translateY(0);
@@ -61,5 +59,4 @@ body {
   .hanging-flower {
     display: none !important;
   }
-
 }

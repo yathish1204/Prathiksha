@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import Image from "next/image";
 // import Button from "../Button/Button";
 import { IMAGES } from "@/images";
+import Modal from "./Modal";
 
 const SaveTheDate = () => {
   const [timeLeft, setTimeLeft] = useState({
@@ -128,6 +129,7 @@ const SaveTheDate = () => {
           </button>
         </div>
       </div>
+      <Modal weddingDate={"2025-12-01T10:00:00"} />
     </section>
   );
 };
